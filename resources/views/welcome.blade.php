@@ -5,6 +5,6 @@
         <title>Main Page Laravel</title>
     </head>
     <body>
-     8.6 Практическая работа
+    <h1> 8.6 Практическая работа </h1>
     </body>
 </html>
